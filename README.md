@@ -7,10 +7,9 @@
 ---
 
 ## ⚡ What I'm Doing
-- 🧬 Working on medical image segmentation  
-- 🔧 Training models & debugging PyTorch pipelines  
-- 📚 Preparing for GATE  
-- 🌙 Late-night coding sessions  
+- 🧬 Working on medical imaging & segmentation models  
+- 🔧 Experimenting with PyTorch pipelines and model training  
+- 🌙 Late-night debugging > everything else  
 
 ---
 
